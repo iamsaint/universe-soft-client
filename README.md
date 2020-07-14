@@ -1,6 +1,6 @@
 ## Guzzle factory for https://github.com/involta-design/universe
 
-####Configure PSR-11 DI container
+### Configure PSR-11 DI container
 
 For example https://github.com/fkeloks/simple-container
 
@@ -38,7 +38,7 @@ $container = ContainerBuilder::getContainer();
 ```
 
 
-####Create api instance
+### Create api instance
 
 ```php
 
